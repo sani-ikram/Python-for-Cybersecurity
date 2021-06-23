@@ -1,0 +1,8 @@
+
+ ----------------------------------------------------------
+ Weather Stats for - LONDON  || 23 Jun 2021 | 11:56:31 AM
+ ---------------------------------------------------------
+ Current temperature: 18.12 deg Celsius
+ Current weather desc  :few clouds
+ Current Humidity      : 52%
+ Curret wind speed     :4.12kmph
